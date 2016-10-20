@@ -1,1 +1,5 @@
+<<<<<<< .mine
 ffffccccccccccccccqwwwwwwwwwwhhhfdsfdf
+=======
+ffffccccccccccccccqwwwwwwwwwwhhhfdsfdf  Branch1hh
+>>>>>>> .theirs
